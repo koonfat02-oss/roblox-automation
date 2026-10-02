@@ -16,7 +16,7 @@ local remoteGet = ReplicatedStorage:WaitForChild("Assets"):WaitForChild("Remotes
 local remotePost = ReplicatedStorage:WaitForChild("Assets"):WaitForChild("Remotes"):WaitForChild("POST")
 
 -- 📌 ตรงนี้ให้นำลิงก์ Raw ของไฟล์ spin.lua มาใส่แทนข้อความด้านล่างนี้
-local SPIN_SCRIPT_URL = "https://raw.githubusercontent.com/ชื่อยูสเซอร์ของคุณ/ชื่อRepository/main/spin.lua"
+local SPIN_SCRIPT_URL = "https://raw.githubusercontent.com/koonfat02-oss/roblox-automation/refs/heads/main/spin.lua?token=GHSAT0AAAAAAEKEJVBTALTCVYIF63AKBGUU2V7IEVA"
 
 -- ฟังก์ชันเช็กสถานะ Slot B และ C
 local function checkCurrentSlots()
